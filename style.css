@@ -1,0 +1,41 @@
+body {
+    color: white;
+}
+.rectangle {
+    height: 100%;
+    width: 400px;
+    background-color: #2F80ED;
+}
+.section_1 {
+    height: 100vh;
+    display: flex;
+}
+.icon_title {
+    display: flex;
+    padding-left: 47px;
+    padding-top: 72px;
+}
+.simple_analytics {
+    margin-left: 19px;
+}
+.boxes {
+    width: 300px;
+    height: 60px;
+    background-color: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#boxes2 {
+    margin-top: 30px;
+    
+}
+.box {
+    margin-top: 250px;
+    margin-left: 44px;
+}
+a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
