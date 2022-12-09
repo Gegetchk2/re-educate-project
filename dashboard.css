@@ -142,3 +142,7 @@ main {
     gap: 12px;
     color: white;
 }
+a {
+    color: white;
+    text-decoration: none; 
+}
