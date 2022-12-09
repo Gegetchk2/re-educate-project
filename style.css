@@ -5,6 +5,9 @@ body {
     height: 100%;
     width: 400px;
     background-color: #2F80ED;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .section_1 {
     height: 120vh;
