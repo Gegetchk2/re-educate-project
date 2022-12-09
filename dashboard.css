@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('/Poppins-BoldItalic.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+.dashboard{
+    background-color: #2F80ED;  
+    width: 400px;
+    height: 815px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.title-1{
+    align-items: center;
+    color: white;
+    display: flex;
+    margin-top: 64px;
+    margin-bottom: 157px;
+    margin-left: 70px;
+}
+.img-logo{
+    color: white;
+}
+.title {
+    color: white;
+}   
+.img-logo2 {
+    color: white;
+}
+.img-logo3 {
+    color: white;
+}
+.title-2{
+    align-items: flex-start ;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 60px;
+}
+.title-3{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-top: 330px;
+    margin-left: 70px;
+}
+.img-logo4 {
+    color: white;
+}
+.dsh {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 12px;
+}
+.stng {
+    display: flex;
+    margin-left: 12px;
+}
+main {
+    display: flex;
+}
+.title-4 {
+    display: flex;
+    align-items: center;
+    color: black;
+    gap: 30px;
+    padding-right: 170px        ;
+}
+.dys {
+    background-color: black;
+    display: flex;
+    flex-direction: column  ;
+    color: white;   
+    width: 100%;
+    height: 150px;
+    border-radius: 25px ;
+    border-color: red;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.dashboard2 {
+    padding-left: 40px;
+    padding-right: 80px;
+    flex: 1;    
+    display: flex;
+    flex-direction: column;
+}
+#h2 {
+ padding-top: 65px;
+ padding-left: 73;
+ padding-bottom: 36px   ;
+}
+#views {
+    padding-bottom: 36px;
+}
+.hebi {
+    padding-top: 31px;
+    padding-bottom: 16px;
+}
+.asd{
+    border: 1px solid #bdbdbd;
+}
+.pages {
+    width: 830px;
+    display: flex;
+    flex-direction: column;
+
+}
+.asd {
+    height: 55px;
+}
+.rame{
+    margin-top: 15px;
+    margin-inline: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-logo2{
+    display: flex;
+    gap: 9px;
+}
+.img-logo3{
+    display: flex;
+    gap: 5px;
+}
+.img-logo4{
+    display: flex;
+    gap: 5px;
+}
+.img-logo{
+    display: flex;
+    gap: 12px;
+    color: white;
+}
